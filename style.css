@@ -1,5 +1,5 @@
 body {
-  background-color: wheat;
+  background-color: #6050DC;
 }
 h2{
  color: mustard;
@@ -15,4 +15,27 @@ h2{
 img{
   width:15%;
   border-radius:130%;
+}
+ul{
+  list-style-type: none;
+  background-color: #000080;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: fixed;
+  padding: 10px;
+  opacity: .6;
+  margin: 0;
+}
+li a:hover{
+  display: inline;
+  padding: 10px 10px;
+}
+a:hover{
+  text-decoration: none;
+  color: salmon;
+  font-var
+}
+h3{
+  color: purple;
 }
